@@ -1,7 +1,6 @@
-# MEDCONNECt
+# MEDCONNEC+
 A Smart Health Monitoring System
 
-# MEDCONNEC+
 ## Introduction
 Maintaining our health becomes increasingly important as we age. However, traditional health-monitoring technologies have too many limitations. Bulky wearables may be unpleasant and cumbersome, and depending entirely on caregivers for monitoring might result in missing vital signs or medication gaps. Introducing the health monitoring jacket "MEDCONNEC+", a complete game changer in elder healthcare. This innovative garment integrates easily into your daily attire while quietly monitoring crucial health parameters such as ECG,EMG,BP, Pulse Rate and SpO2 in the background. Unlike the bulky wearables, it focuses on comfort and simplicity of usage, making it a natural extension of your wardrobe. The jacket encourages you to take an active part in your own health while also providing caregivers with useful data and communication tools.
 
